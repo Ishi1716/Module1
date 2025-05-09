@@ -92,6 +92,43 @@ print("d:",d)
 
 a Python program that evaluates and prints the results of boolean and arithmetic expressions involving True and False is successful.
 
+---
+
+#Datatypes-Character Literal in Python
+
+##🎯 Aim
+To write a Python program that prints the characters 'T' and 'a' using character literals.
+
+##🧠 Algorithm
+
+Print the character 'T'.
+
+Print the character 'a'.
+
+##🧾 Program
+
+''' python
+
+v = 'T'
+
+w = "a"
+
+print(v)
+
+print(w)
+
+
+##Output
+
+![442064001-1c4acf7f-aeb1-4bbc-baec-d4ed7ec193b2](https://github.com/user-attachments/assets/f7dc5c21-f3d8-4533-a466-a661544dacf3)
+
+
+##Result
+
+a Python program that prints the characters 'T' and 'a' using character literals is successful
+
+
+
 
 
 
