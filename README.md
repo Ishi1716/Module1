@@ -175,6 +175,40 @@ print(x.imag)
 
 a Python program that reads two integers, creates a complex number using them, and then prints the complex number along with its real and imaginary parts is successful.
 
+---
+
+#Datatypes-Read and Print a String in Python
+
+##🎯 Aim
+To write a Python program to read a string from the user and then print it.
+
+##🧠 Algorithm
+
+Assign a variable named men_stepped_on_the_moon.
+
+Use input() to read a string from the user and store it in the variable.
+
+Print the value stored in the variable.
+
+##🧾 Program
+
+men_stepped_on_the_moon=input()
+
+print(men_stepped_on_the_moon)
+
+##Output
+
+![442075356-e822db7e-217e-4756-82b4-f53b2cec1eed](https://github.com/user-attachments/assets/a09883f3-cb9f-4f06-b051-493a312108ef)
+
+##Result
+
+a Python program to read a string from the user and then print it is successful.
+
+
+
+
+
+
 
 
 
