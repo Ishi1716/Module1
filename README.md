@@ -65,7 +65,7 @@ Print the value of d with the label "d:".
 
 ##💻 Program
 
-''' python
+``` python
 
 a = (1 == True)
 
@@ -80,7 +80,7 @@ print("b is False")
 print("c:",c)
 print("d:",d)
 
-'''
+```
 
 
 ##Output
@@ -107,7 +107,7 @@ Print the character 'a'.
 
 ##🧾 Program
 
-''' python
+``` python
 
 v = 'T'
 
@@ -116,6 +116,8 @@ w = "a"
 print(v)
 
 print(w)
+
+```
 
 
 ##Output
@@ -151,7 +153,7 @@ Print the imaginary part of x using x.imag.
 
 ##💻 Program
 
-''' python
+``` python
 
 
 a=int(input())
@@ -166,6 +168,7 @@ print(x.real)
 
 print(x.imag)
 
+```
 
 ##Output
 
@@ -192,9 +195,13 @@ Print the value stored in the variable.
 
 ##🧾 Program
 
+``` python 
+
 men_stepped_on_the_moon=input()
 
 print(men_stepped_on_the_moon)
+
+```
 
 ##Output
 
